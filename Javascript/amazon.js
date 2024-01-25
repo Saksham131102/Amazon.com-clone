@@ -8,6 +8,7 @@ import { products } from "../data/products.js"
 import { formatPrice } from "./utils/money.js"
 
 
+
 // The array 'products' is being taken from "data/products.js" file.
 
 let productsHTML = '';
